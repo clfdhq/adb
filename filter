@@ -1,0 +1,31 @@
+@@||login.microsoftonline.com^$important,document,~extension
+@@||beacons4.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
+@@||beacons.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
+@@||google-analytics.com^
+av-uncen.com###custom_html-20
+youtube.com###masthead-ad
+@@||ssl.google-analytics.com^$domain=illusioncards.booru.org,third-party
+@@||beacons5.gvt2.com^
+hentaiz.net##div.container.text-center:nth-child(3) > div.row:first-child
+@@||en.av01.tv^$important,document,~extension
+javgiga.com###content > div.happy-footer:nth-child(3)
+javgiga.com###post-12537 > div.entry-content:first-child > div.video-player-area.with-sidebar-ads:first-child > div.happy-under-player:nth-child(2) > div.under-player-desktop
+javgiga.com###post-12537 > div.entry-content:first-child > div.sidebar-ads:last-child
+javgiga.com###main > div.archive-content.clearfix-after:last-child > header.page-header:first-child > div.archive-description:last-child > p > iframe:nth-child(12)
+javgiga.com###post-13850 > div.entry-content:first-child > div.video-player-area.with-sidebar-ads:first-child > div.video-player:first-child > div.happy-inside-player:last-child
+###post-13850 > div.entry-content:first-child > div.sidebar-ads:last-child
+###post-13850 > div.entry-content:first-child > div.video-player-area.with-sidebar-ads:first-child > div.happy-under-player:nth-child(2)
+javgiga.com##.under-player-desktop
+javgiga.com##.sidebar-ads
+javgiga.com##.happy-inside-player
+javgiga.com##.happy-under-player
+###top > div.p-body:nth-child(3) > div.p-body-inner > div.uix_contentWrapper:nth-child(2) > div.p-body-main > div.p-body-content > div.p-body-pageContent:last-child > div.block.block--messages:nth-child(2) > div.block-container.lbContainer:nth-child(3) > div.block-body.js-replyNewMessageContainer > div.samBannerUnit.samAlignCenter:nth-child(2) > div.samItem
+###top > div.p-body:nth-child(3) > div.p-body-inner > div.samBannerUnit:last-child > div.samItem
+pornhub.com###videoSearchResult > li.sniperModeEngaged.alpha:first-child
+pornhub.com##div.wrapper:nth-child(12) > div.container:last-child > div.gridWrapper:nth-child(6) > div.nf-videos:last-child > div.sectionWrapper:last-child > div.sectionWrapper:nth-child(7)
+pornhub.com###my2d9
+pornhub.com##div.tsvgh3nvryzwghf94f:nth-child(14)
+cdn1d-static-shared.phncdn.com
+adserver.juicyads.com
+ads.adxadserv.com
+@@||i24h.sharepoint.com^$important,document,~extension
