@@ -29,3 +29,13 @@ cdn1d-static-shared.phncdn.com
 adserver.juicyads.com
 ads.adxadserv.com
 @@||i24h.sharepoint.com^$important,document,~extension
+a.o333o.com
+##.exo_wrapper
+@@||analytics.archive.org^$domain=web.archive.org
+@@//web.archive.org^$document
+web.archive.org###widget_182
+web.archive.org###RightFloatAds
+###widget_161 > div.widget-content.restore.axd.axd_161
+###widget_182
+animet.net##.sticky_bottom
+animet.net##.gnarty-offads
