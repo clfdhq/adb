@@ -37,6 +37,5 @@ web.archive.org###widget_182
 web.archive.org###RightFloatAds
 ###widget_161 > div.widget-content.restore.axd.axd_161
 ###widget_182
-animet.net###Tp-Wp > div.gnarty-offads:nth-child(13)
-animet.net###Tp-Wp > div.gnarty-offads:nth-child(3)
+spstream.anime4u.net/vanlongstream/ads/
 
