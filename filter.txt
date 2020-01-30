@@ -2,10 +2,26 @@
 @@||beacons4.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
 @@||beacons.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
 @@||google-analytics.com^
-av-uncen.com###custom_html-20
-youtube.com###masthead-ad
 @@||ssl.google-analytics.com^$domain=illusioncards.booru.org,third-party
 @@||beacons5.gvt2.com^
+@@||i24h.sharepoint.com^$important,document,~extension
+@@||s4.histats.com^$domain=avgle.com,third-party
+@@||s10.histats.com^
+@@||e.dtscout.com^$domain=avgle.com
+@@||avgle.com^
+@@||m.addthis.com^$domain=avgle.com
+@@||z.moatads.com/addthismoatframe568911941483/moatframe.js$domain=avgle.com
+@@||v1.addthisedge.com/live/boost/*$domain=avgle.com
+@@||analytics.archive.org^$domain=web.archive.org
+@@//web.archive.org^$document
+@@||googletagmanager.com/gtag/js^
+@@||browser.pipe.aria.microsoft.com^
+@@//docs.google.com^$document
+@@||cdn.mxpnl.com/libs/mixpanel-2-latest.min.js
+@@||api-js.mixpanel.com/decide/^$third-party
+@@||en.av01.tv^$important,document,~extension
+av-uncen.com###custom_html-20
+youtube.com###masthead-ad
 hentaiz.net##div.container.text-center:nth-child(3) > div.row:first-child
 javgiga.com###content > div.happy-footer:nth-child(3)
 javgiga.com###post-12537 > div.entry-content:first-child > div.video-player-area.with-sidebar-ads:first-child > div.happy-under-player:nth-child(2) > div.under-player-desktop
@@ -26,11 +42,8 @@ pornhub.com###my2d9
 pornhub.com##div.tsvgh3nvryzwghf94f:nth-child(14)
 cdn1d-static-shared.phncdn.com
 ads.adxadserv.com
-@@||i24h.sharepoint.com^$important,document,~extension
 a.o333o.com
 ##.exo_wrapper
-@@||analytics.archive.org^$domain=web.archive.org
-@@//web.archive.org^$document
 web.archive.org###widget_182
 web.archive.org###RightFloatAds
 ###widget_161 > div.widget-content.restore.axd.axd_161
@@ -38,26 +51,13 @@ web.archive.org###RightFloatAds
 ||spstream.anime4u.net/vanlongstream/ads/
 en.av01.tv###\38 4224o
 ||adserver.juicyads.com^
-@@||googletagmanager.com/gtag/js^
-@@||browser.pipe.aria.microsoft.com^
-@@//docs.google.com^$document
-@@||cdn.mxpnl.com/libs/mixpanel-2-latest.min.js
-@@||api-js.mixpanel.com/decide/^$third-party
 ###invideo-overlay\:33 > div.ytp-ad-overlay-container > div.ytp-ad-image-overlay:last-child > div.ytp-ad-overlay-image:last-child > img
 youtube.com##.ytp-ad-image-overlay
 www5.javmost.com###content > div.col-md-12:first-child
-@@||s4.histats.com^$domain=avgle.com,third-party
-@@||s10.histats.com^
-@@||e.dtscout.com^$domain=avgle.com
-@@||avgle.com^
-@@||m.addthis.com^$domain=avgle.com
-@@||z.moatads.com/addthismoatframe568911941483/moatframe.js$domain=avgle.com
-@@||v1.addthisedge.com/live/boost/*$domain=avgle.com
 ||poweredby.jads.co^
 avgle.com###ps32-container > center
 avgle.com###adxp
 avgle.com###container-c784c7e5f7516b03192a2aedaa0bd981 > div.container-c784c7e5f7516b03192a2aedaa0bd981__stand.row:last-child
-@@||en.av01.tv^$important,document,~extension
 adserver.juicyads.com
 
 
