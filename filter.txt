@@ -7,7 +7,6 @@ youtube.com###masthead-ad
 @@||ssl.google-analytics.com^$domain=illusioncards.booru.org,third-party
 @@||beacons5.gvt2.com^
 hentaiz.net##div.container.text-center:nth-child(3) > div.row:first-child
-@@||en.av01.tv^$important,document,~extension
 javgiga.com###content > div.happy-footer:nth-child(3)
 javgiga.com###post-12537 > div.entry-content:first-child > div.video-player-area.with-sidebar-ads:first-child > div.happy-under-player:nth-child(2) > div.under-player-desktop
 javgiga.com###post-12537 > div.entry-content:first-child > div.sidebar-ads:last-child
@@ -26,7 +25,6 @@ pornhub.com##div.wrapper:nth-child(12) > div.container:last-child > div.gridWrap
 pornhub.com###my2d9
 pornhub.com##div.tsvgh3nvryzwghf94f:nth-child(14)
 cdn1d-static-shared.phncdn.com
-adserver.juicyads.com
 ads.adxadserv.com
 @@||i24h.sharepoint.com^$important,document,~extension
 a.o333o.com
@@ -59,5 +57,8 @@ www5.javmost.com###content > div.col-md-12:first-child
 avgle.com###ps32-container > center
 avgle.com###adxp
 avgle.com###container-c784c7e5f7516b03192a2aedaa0bd981 > div.container-c784c7e5f7516b03192a2aedaa0bd981__stand.row:last-child
+@@||en.av01.tv^$important,document,~extension
+adserver.juicyads.com
+
 
 
