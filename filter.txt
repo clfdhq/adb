@@ -59,6 +59,25 @@ avgle.com###ps32-container > center
 avgle.com###adxp
 avgle.com###container-c784c7e5f7516b03192a2aedaa0bd981 > div.container-c784c7e5f7516b03192a2aedaa0bd981__stand.row:last-child
 adserver.juicyads.com
-
+syndication.exosrv.com
+syndication.exoclick.com
+youtube.com##.ytp-ad-text-overlay
+serve.popads.net
+@@//tiki.vn^$document
+animet.net##iframe:nth-child(7)
+animet.net##iframe:nth-child(6)
+fshare.vn###aswift_1
+fshare.vn###aswift_3
+fshare.vn###aswift_2
+fshare.vn###aswift_4
+@@//nhattruyen.com^$document
+mediafire.com###google_ads_iframe_\/21882844027\/Desktop-Zone1_0
+https://googleads.g.doubleclick.net/pagead/
+###aswift_2
+ez4linkss.com##.j4gNcF3UNRxDPb
+ez4linkss.com##.banner, .banner-336x280
+##.glx-slider-container-17390
+###aswift_1_anchor
+###aswift_0
 
 
