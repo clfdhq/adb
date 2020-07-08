@@ -1,6 +1,7 @@
 @@||login.microsoftonline.com^$important,document,~extension
 @@||beacons4.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
 @@||beacons.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
+@@||google-analytics.com^
 av-uncen.com###custom_html-20
 youtube.com###masthead-ad
 @@||ssl.google-analytics.com^$domain=illusioncards.booru.org,third-party
@@ -23,7 +24,6 @@ pornhub.com###videoSearchResult > li.sniperModeEngaged.alpha:first-child
 pornhub.com##div.wrapper:nth-child(12) > div.container:last-child > div.gridWrapper:nth-child(6) > div.nf-videos:last-child > div.sectionWrapper:last-child > div.sectionWrapper:nth-child(7)
 pornhub.com###my2d9
 pornhub.com##div.tsvgh3nvryzwghf94f:nth-child(14)
-cdn1d-static-shared.phncdn.com
 ads.adxadserv.com
 @@||i24h.sharepoint.com^$important,document,~extension
 a.o333o.com
@@ -56,7 +56,6 @@ www5.javmost.com###content > div.col-md-12:first-child
 avgle.com###ps32-container > center
 avgle.com###adxp
 avgle.com###container-c784c7e5f7516b03192a2aedaa0bd981 > div.container-c784c7e5f7516b03192a2aedaa0bd981__stand.row:last-child
-@@||en.av01.tv^$important,document,~extension
 adserver.juicyads.com
 syndication.exosrv.com
 syndication.exoclick.com
@@ -134,6 +133,24 @@ gamcore.com###middleCntr > article.middleBox > div.row > div.col-xl-12.col-lg-12
 f8-group-zf.zdn.vn
 google-analytics.com/r/collect^$third-party,important
 adservice.google.com
-
-
-
+a.adtng.com/
+@@||pornhub.com/view_video.php$domain=pornhub.com
+pornhub.com###hd-rightColVideoPage
+###content > div.pageWidth > div.pageContent > div.my_responsive_ads:first-child > center > table > tbody > tr:last-child > td > div > a:first-child
+@@74.125.24.138$network
+@@172.217.194.95$network
+animet.net###Tp-Wp > div.gnarty-offads:nth-child(10) > div.sticky_bottom:nth-child(2) > div.ads_sticky_bottom:last-child > div.mobile-ads-content
+animet.net##.ads_sticky_bottom
+###yomedia-balloon-expandable-ddcc370bbe6643298ebaa569b245d513
+212.124.117.241$network
+https://animetvn.tv/ads/
+###float_content_right
+||media.yomedia.vn^$domain=vuighe.net,third-party
+||match.adsrvr.org^$third-party
+||ads.pubmatic.com^$third-party
+||blueadss.com^$domain=vuighe.net,third-party
+||tag.gammaplatform.com^$third-party
+||delivery.yeah1media.vn^$third-party
+avgle.com###ps32-container-inner > div:first-child
+avgle.com###wrapper > div.container:nth-child(10) > div:nth-child(3)
+avgle.com##.well
