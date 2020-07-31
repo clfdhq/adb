@@ -1,4 +1,3 @@
-@@||login.microsoftonline.com^$important,document,~extension
 @@||beacons4.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
 @@||beacons.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
 @@||google-analytics.com^
@@ -35,7 +34,6 @@ web.archive.org###RightFloatAds
 ###widget_161 > div.widget-content.restore.axd.axd_161
 ###widget_182
 ||spstream.anime4u.net/vanlongstream/ads/
-en.av01.tv###\38 4224o
 ||adserver.juicyads.com^
 @@||googletagmanager.com/gtag/js^
 @@||browser.pipe.aria.microsoft.com^
@@ -139,8 +137,7 @@ pornhub.com###hd-rightColVideoPage
 ###content > div.pageWidth > div.pageContent > div.my_responsive_ads:first-child > center > table > tbody > tr:last-child > td > div > a:first-child
 @@74.125.24.138$network
 @@172.217.194.95$network
-animet.net###Tp-Wp > div.gnarty-offads:nth-child(10) > div.sticky_bottom:nth-child(2) > div.ads_sticky_bottom:last-child > div.mobile-ads-content
-animet.net##.ads_sticky_bottom
+##.ads_sticky_bottom
 ###yomedia-balloon-expandable-ddcc370bbe6643298ebaa569b245d513
 212.124.117.241$network
 https://animetvn.tv/ads/
@@ -154,3 +151,11 @@ https://animetvn.tv/ads/
 avgle.com###ps32-container-inner > div:first-child
 avgle.com###wrapper > div.container:nth-child(10) > div:nth-child(3)
 avgle.com##.well
+avgle.com###wrapper > div.container:first-child > div.row:nth-child(2) > div.col-md-4.col-sm-5:nth-child(2)
+javdoe.tv###ts_ad_native_tmc9p
+facebook.com###mount_0_0 > div:nth-child(2) > div > div.rq0escxv.l9j0dhe7.du4w35lb:first-child > div.rq0escxv.l9j0dhe7.du4w35lb:nth-child(3) > div.du4w35lb.l9j0dhe7.cbu4d94t.j83agx80 > div.j83agx80.cbu4d94t.jgljxmt5.l9j0dhe7.be9z9djy > div.j83agx80.cbu4d94t.d6urw2fd.dp1hu0rb.l9j0dhe7.du4w35lb:first-child > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.taijpn5t.gs1a9yip.owycx6da.btwxx1t3.dp1hu0rb.ka73uehy.cuepibvl:first-child > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.rj1gh0hx.buofh1pr.g5gj957u.hpfvmrgz.i1fnvgqd.gs1a9yip.owycx6da.btwxx1t3.d2edcug0.dp1hu0rb > div.iaoy24ia.ahb00how.o9ndlxrr.fer614ym.dp1hu0rb.pzfvarvs.buofh1pr.ftbm7790:last-child > div.iyyx5f41.czl6b2yu.poy2od1o.dhp61c6y.dp1hu0rb.owwhemhu.pad24vr5.cbu4d94t.j83agx80 > div.q5bimw55.rpm2j7zs.k7i0oixp.gvuykj2m.j83agx80.cbu4d94t.ni8dbmo4.eg9m0zos.l9j0dhe7.du4w35lb.ofs802cu.pohlnb88.dkue75c7.mb9wzai9.d8ncny3e.buofh1pr.tgvbjcpo.l56l04vs.r57mb794.kh7kg01d.c3g1iek1.k4xni2cv > div.j83agx80.cbu4d94t.buofh1pr:first-child > div.cxgpxx05:nth-child(2) > div:first-child > div:first-child > div.l9j0dhe7 > div.cxgpxx05.sj5x9vvc:nth-child(2)
+##.mobile-ads-content
+##.gnarty-offads
+animehay.tv###floating-banner-right
+###floating-banner-left
+https://animet.net/upload/ads/
