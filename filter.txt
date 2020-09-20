@@ -159,3 +159,19 @@ facebook.com###mount_0_0 > div:nth-child(2) > div > div.rq0escxv.l9j0dhe7.du4w35
 animehay.tv###floating-banner-right
 ###floating-banner-left
 https://animet.net/upload/ads/
+@@||login.microsoftonline.com^$important,document,~extension
+en.av01.tv###\38 4224o
+animet.net###Tp-Wp > div.gnarty-offads:nth-child(10) > div.sticky_bottom:nth-child(2) > div.ads_sticky_bottom:last-child > div.mobile-ads-content
+animet.net##.ads_sticky_bottom
+jav.sh###colophon > div.row > center:first-child
+##.exo-native-widget-outer-container
+###ins-overlay
+###ins-content
+@@||google-analytics.com^$domain=animet.net,third-party
+https://syndication.exosrv.com/
+@@142.250.4.102:443$network
+@@8.8.8.8$network,important
+||checkyofeed.com^$third-party
+||kdbumyha.com^$third-party
+||log.videocampaign.co^$third-party
+||misxgkvnlf.com^$third-party
