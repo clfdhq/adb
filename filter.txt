@@ -139,7 +139,6 @@ letrongdai.vn##div.wp-pawumtehvzexc-wrapper:last-child > div.wp-pawumtehvzexc-mo
 @@||google-analytics.com/analytics.js$domain=share247.info
 @@||adservice.google.com.vn/adsid/integrator.js$domain=share247.info
 @@||google-analytics.com/j/collect$domain=share247.info
-truyentranhlh.net###lh-ads > div.d-none.d-sm-block.bt-fixed-pc.force-top
 @@||beacons4.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
 @@||beacons.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
 @@||google-analytics.com^
@@ -209,3 +208,5 @@ avgle.com##.well
 @@||beacons2.gvt2.com^$third-party
 @@||beacons3.gvt2.com^$third-party
 @@172.217.194.94$network,app=chrome.exe
+truyentranhlh.net###lh-ads > div.d-none.d-sm-block.bt-fixed-pc.force-top
+truyentranhlh.net###lh-ads > div.d-md-none.bt-fixed.force-top
