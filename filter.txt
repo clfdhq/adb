@@ -1,3 +1,145 @@
+https://spstream.anime4u.net/vanlongstream/ads/
+animet.net##.gnarty-offads
+vuighe.net##.iframe-right
+adserver.juicyads.com
+//adserver.juicyads.com/
+en.av01.tv###\38 4224o
+###invideo-overlay\:33 > div.ytp-ad-overlay-container > div.ytp-ad-image-overlay:last-child > div.ytp-ad-overlay-image:last-child > img
+youtube.com##.ytp-ad-image-overlay
+www5.javmost.com###content > div.col-md-12:first-child
+@@||s4.histats.com^$domain=avgle.com,third-party
+@@||s10.histats.com^
+@@||e.dtscout.com^$domain=avgle.com
+||adserver.juicyads.com^
+@@||avgle.com^
+@@||m.addthis.com^$domain=avgle.com
+@@||z.moatads.com/addthismoatframe568911941483/moatframe.js$domain=avgle.com
+@@||v1.addthisedge.com/live/boost/*$domain=avgle.com
+||poweredby.jads.co^
+avgle.com###adxp
+avgle.com###ps32-container > center
+avgle.com###container-c784c7e5f7516b03192a2aedaa0bd981 > div.container-c784c7e5f7516b03192a2aedaa0bd981__stand.row:last-child
+syndication.exosrv.com
+syndication.exoclick.com
+youtube.com##.ytp-ad-text-overlay
+animet.net##iframe:nth-child(7)
+animet.net##iframe:nth-child(6)
+fshare.vn###aswift_1
+fshare.vn###aswift_3
+fshare.vn###aswift_2
+fshare.vn###aswift_4
+mediafire.com###google_ads_iframe_\/21882844027\/Desktop-Zone1_0
+https://googleads.g.doubleclick.net/pagead/
+###aswift_2
+ez4linkss.com##.j4gNcF3UNRxDPb
+ez4linkss.com##.banner, .banner-336x280
+##.glx-slider-container-17390
+###aswift_1_anchor
+###aswift_0
+##.banner, .banner-728x90
+##.glx-slider-container-17137
+https://i.imgur.com/zKvWPrO.gif
+https://i.imgur.com/TIhAKOv.gif
+##.pc-top
+##.pc-catfixx
+###ads > div.balloon-block:last-child
+//iframe2.adxxx.com/
+iframe2.adxxx.com
+##div.xbOffCanvasContainer:first-child > footer:nth-child(4)
+w3schools.com###google_ads_iframe_\/22152718\/sws-hb\/\/w3schools\.com\/\/sidebar_sticky_0
+###^$elemhid
+###subdocument
+imgtaxi.com##div.if:nth-child(2) > iframe:first-child
+https://adworkmedia.net/
+imgdrive.net##div.if:nth-child(2) > iframe:first-child
+imgadult.com##div.if:nth-child(2) > iframe:first-child
+##div.if:nth-child(2) > iframe:first-child
+https://tpc.googlesyndication.com/safeframe
+speedtest.net###div-gpt-ad-1541628244269-0
+speedtest.net###container > div.main-content:nth-child(3) > div.main > div.container > div.pure-g-r > div.pure-u-custom-ad-rectangle.u-c:last-child
+###container > div.main-content:nth-child(3) > div.main > div.container > div.pure-g-r > div.pure-u-custom-speedtest:nth-child(2) > div.top-placeholder:nth-child(2)
+speedtest.net###container > div.main-content:nth-child(3) > div.main > div.container > div.pure-g-r > div.pure-u-custom-ad-skyscraper.u-c:first-child
+speedtest.net###container > div.main-content:nth-child(3) > div.main > div.container > div.pure-g-r > div.pure-u-custom-speedtest:nth-child(2) > div.speedtest-container.main-row:nth-child(3) > div.main-view:last-child > div > div.pure-u-1.eot-box-wrapper:nth-child(6) > div.pure-g > div.pure-u-1-2:first-child > div.eot-box > div.a-container.a-container-eot > div.ad.eot-300-250
+###google_ads_iframe_\/4585\/downdetector\/downdetector\.com\/rectangle-top_0
+###google_ads_iframe_\/4585\/downdetector\/downdetector\.com\/inline_0
+downdetector.com###google_ads_iframe_^
+###google_ads_iframe_\/*
+https://tpc.googlesyndication.com/
+###google_ads_iframe_\/4585\/downdetector\/downdetector\.com\/rectangle-bottom_0
+###google_ads_iframe_\/4585\/downdetector\/downdetector\.com\/inline-second_0
+###comments-card
+m.17track.net##main.page.animsition:nth-child(6) > div.page-content > section.yq-panel.yq-panel-tracklist:nth-child(4) > div.slider.jcTrackContainer.slick-initialized.slick-slider > div.slick-list.draggable > div.slick-track > div.slick-slide:last-child > div.tracklist-item.tracklist-default
+7mmtv.tv#@##aoverlay
+xnxx.com###video-ad
+vjav.com##.__nat_box
+https://bssp.zog.link/
+javdoe.tv###ts_ad_native_tmc9p > div.mn-related-container
+t.17track.net###DA_V6-T-Main
+javwide.tv##.mn-related-container
+nhattruyen.com###trc_wrapper_87139
+nhattruyen.com##.trc_rbox_outer
+javdoe.tv###primary > div.wrap-block > div.container > div.col-md-8:nth-child(2) > div.wrap-block:last-child > div.row > center:last-child
+jav.sh###ts_ad_native_97iiy > div.mn-related-container
+otakusan.net##div.container-fluid:nth-child(9) > div.row:first-child > div.banner_qc:nth-child(2)
+otakusan.net##._u5reuj
+about:blank$domain=otakusan.net
+###MarketGidComposite197920
+otakusan.net##div.container-fluid:nth-child(9) > div.row:first-child > div.manga-container:nth-child(3) > div.manga-main.mb-3 > div.row.manga-top > div.col-lg-3:first-child > div.vertical-banner:nth-child(5)
+otakusan.net##.banner_qc
+otakusan.net###collection-manga > div.row > div.col-xs-12:last-child
+otakusan.net###collection-novel > div.row > div.col-xs-12:last-child
+otakusan.net###chap_view > div:nth-child(7)
+otakusan.net###chap_view > div:nth-child(13)
+otakusan.net##.fixed-ad, .ad-160-600-right
+otakusan.net###chap_view > div:nth-child(11)
+gamcore.com##div:nth-child(6) > canvas:nth-child(2)
+gamcore.com##div:nth-child(5) > canvas:nth-child(2)
+gamcore.com###middleCntr > article.middleBox > div.row:last-child > div.col-2.d-none.d-md-block.rightAdd:last-child
+gamcore.com###middleCntr > article.middleBox > div.row > div.col-xl-12.col-lg-12.col-md-12.col-sm-12.col-xs-12.game_view:nth-child(2) > div.add_game:nth-child(9) > div.add_game.d-none.d-sm-block:first-child
+##.mgbox
+a.adtng.com/
+@@||pornhub.com/view_video.php$domain=pornhub.com
+pornhub.com###hd-rightColVideoPage
+###content > div.pageWidth > div.pageContent > div.my_responsive_ads:first-child > center > table > tbody > tr:last-child > td > div > a:first-child
+animet.net###Tp-Wp > div.gnarty-offads:nth-child(10) > div.sticky_bottom:nth-child(2) > div.ads_sticky_bottom:last-child > div.mobile-ads-content
+animet.net##.ads_sticky_bottom
+media.yomedia.vn
+##.player-loading-text
+###yomedia-balloon-expandable-ddcc370bbe6643298ebaa569b245d513
+https://animetvn.tv/ads/
+###float_content_right
+hentaiz.net###rmcard
+##.hidden-mobile
+vuighe.net##.player-vast-blocker
+vuighe.net###player > div.player-vast-container:last-child
+avgle.com###ps32-container-inner > div:first-child
+avgle.com###wrapper > div.container:nth-child(10) > div:nth-child(3)
+avgle.com###wrapper > div.container:first-child > div.row:nth-child(2) > div.col-md-4.col-sm-5:nth-child(2)
+javdoe.tv###ts_ad_native_tmc9p
+facebook.com###mount_0_0 > div:nth-child(2) > div > div.rq0escxv.l9j0dhe7.du4w35lb:first-child > div.rq0escxv.l9j0dhe7.du4w35lb:nth-child(3) > div.du4w35lb.l9j0dhe7.cbu4d94t.j83agx80 > div.j83agx80.cbu4d94t.jgljxmt5.l9j0dhe7.be9z9djy > div.j83agx80.cbu4d94t.d6urw2fd.dp1hu0rb.l9j0dhe7.du4w35lb:first-child > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.taijpn5t.gs1a9yip.owycx6da.btwxx1t3.dp1hu0rb.ka73uehy.cuepibvl:first-child > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.rj1gh0hx.buofh1pr.g5gj957u.hpfvmrgz.i1fnvgqd.gs1a9yip.owycx6da.btwxx1t3.d2edcug0.dp1hu0rb > div.iaoy24ia.ahb00how.o9ndlxrr.fer614ym.dp1hu0rb.pzfvarvs.buofh1pr.ftbm7790:last-child > div.iyyx5f41.czl6b2yu.poy2od1o.dhp61c6y.dp1hu0rb.owwhemhu.pad24vr5.cbu4d94t.j83agx80 > div.q5bimw55.rpm2j7zs.k7i0oixp.gvuykj2m.j83agx80.cbu4d94t.ni8dbmo4.eg9m0zos.l9j0dhe7.du4w35lb.ofs802cu.pohlnb88.dkue75c7.mb9wzai9.d8ncny3e.buofh1pr.tgvbjcpo.l56l04vs.r57mb794.kh7kg01d.c3g1iek1.k4xni2cv > div.j83agx80.cbu4d94t.buofh1pr:first-child > div.cxgpxx05:nth-child(2) > div:first-child > div:first-child > div.l9j0dhe7 > div.cxgpxx05.sj5x9vvc:nth-child(2)
+animet.net##.mobile-ads-content
+##.gnarty-offads
+animehay.tv###floating-banner-right
+###floating-banner-left
+##.mobile-ads-content
+https://animet.net/upload/ads/
+##.exo_wrapper
+jav.sh###colophon > div.row > center:first-child
+##.exo-native-widget-outer-container
+###ins-overlay
+###ins-content
+https://syndication.exosrv.com/
+reic.vn###myModalLogin
+reic.vn##.modal-backdrop, .fade, .in
+@@||google-analytics.com/analytics.js$domain=avgle.com
+avgle.com#@%#!function(b,c){function a(a,b){return typeof a!=='function'?!0:a.toString().indexOf(b)===-1}b=document.addEventListener,document.addEventListener=function(){a(arguments[1],'inXP(e.target')&&b.apply(document,arguments)},c=window.setInterval,window.setInterval=function(){return a(arguments[0],'cookies.ppu_main')?c.apply(window,arguments):void 0},AG_defineProperty('onbeforeunload',{beforeSet:function(b){return a(b,'location.href=options.url')?b:null}})}();
+letrongdai.vn##div.wp-pawumtehvzexc-wrapper:last-child > div.wp-pawumtehvzexc-modal.active
+@@||googletagmanager.com^$domain=share247.info
+@@||pagead2.googlesyndication.com/pagead/js/*$domain=share247.info
+@@||google-analytics.com/analytics.js$domain=share247.info
+@@||adservice.google.com.vn/adsid/integrator.js$domain=share247.info
+@@||google-analytics.com/j/collect$domain=share247.info
+truyentranhlh.net###lh-ads > div.d-none.d-sm-block.bt-fixed-pc.force-top
 @@||beacons4.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
 @@||beacons.gvt2.com/domainreliability/upload-nel$domain=google.com.vn,third-party
 @@||google-analytics.com^
@@ -26,7 +168,6 @@ pornhub.com##div.tsvgh3nvryzwghf94f:nth-child(14)
 ads.adxadserv.com
 @@||i24h.sharepoint.com^$important,document,~extension
 a.o333o.com
-##.exo_wrapper
 @@||analytics.archive.org^$domain=web.archive.org
 @@//web.archive.org^$document
 web.archive.org###widget_182
@@ -34,144 +175,37 @@ web.archive.org###RightFloatAds
 ###widget_161 > div.widget-content.restore.axd.axd_161
 ###widget_182
 ||spstream.anime4u.net/vanlongstream/ads/
-||adserver.juicyads.com^
 @@||googletagmanager.com/gtag/js^
 @@||browser.pipe.aria.microsoft.com^
 @@//docs.google.com^$document
 @@||cdn.mxpnl.com/libs/mixpanel-2-latest.min.js
 @@||api-js.mixpanel.com/decide/^$third-party
-###invideo-overlay\:33 > div.ytp-ad-overlay-container > div.ytp-ad-image-overlay:last-child > div.ytp-ad-overlay-image:last-child > img
-youtube.com##.ytp-ad-image-overlay
-www5.javmost.com###content > div.col-md-12:first-child
-@@||s4.histats.com^$domain=avgle.com,third-party
-@@||s10.histats.com^
-@@||e.dtscout.com^$domain=avgle.com
-@@||avgle.com^
-@@||m.addthis.com^$domain=avgle.com
-@@||z.moatads.com/addthismoatframe568911941483/moatframe.js$domain=avgle.com
-@@||v1.addthisedge.com/live/boost/*$domain=avgle.com
-||poweredby.jads.co^
-avgle.com###ps32-container > center
-avgle.com###adxp
-avgle.com###container-c784c7e5f7516b03192a2aedaa0bd981 > div.container-c784c7e5f7516b03192a2aedaa0bd981__stand.row:last-child
-adserver.juicyads.com
-syndication.exosrv.com
-syndication.exoclick.com
-youtube.com##.ytp-ad-text-overlay
 serve.popads.net
 @@//tiki.vn^$document
-animet.net##iframe:nth-child(7)
-animet.net##iframe:nth-child(6)
-fshare.vn###aswift_1
-fshare.vn###aswift_3
-fshare.vn###aswift_2
-fshare.vn###aswift_4
-mediafire.com###google_ads_iframe_\/21882844027\/Desktop-Zone1_0
-https://googleads.g.doubleclick.net/pagead/
-###aswift_2
-ez4linkss.com##.j4gNcF3UNRxDPb
-ez4linkss.com##.banner, .banner-336x280
-##.glx-slider-container-17390
-###aswift_1_anchor
-###aswift_0
-##.banner, .banner-728x90
-##.glx-slider-container-17137
-https://i.imgur.com/zKvWPrO.gif
-https://i.imgur.com/TIhAKOv.gif
-##.pc-top
-##.pc-catfixx
-###ads > div.balloon-block:last-child
-//iframe2.adxxx.com/
-iframe2.adxxx.com
-##div.xbOffCanvasContainer:first-child > footer:nth-child(4)
-w3schools.com###google_ads_iframe_\/22152718\/sws-hb\/\/w3schools\.com\/\/sidebar_sticky_0
-https://adworkmedia.net/
-##div.if:nth-child(2) > iframe:first-child
-https://tpc.googlesyndication.com/safeframe
-speedtest.net###div-gpt-ad-1541628244269-0
-speedtest.net###container > div.main-content:nth-child(3) > div.main > div.container > div.pure-g-r > div.pure-u-custom-ad-rectangle.u-c:last-child
-###container > div.main-content:nth-child(3) > div.main > div.container > div.pure-g-r > div.pure-u-custom-speedtest:nth-child(2) > div.top-placeholder:nth-child(2)
-speedtest.net###container > div.main-content:nth-child(3) > div.main > div.container > div.pure-g-r > div.pure-u-custom-ad-skyscraper.u-c:first-child
-speedtest.net###container > div.main-content:nth-child(3) > div.main > div.container > div.pure-g-r > div.pure-u-custom-speedtest:nth-child(2) > div.speedtest-container.main-row:nth-child(3) > div.main-view:last-child > div > div.pure-u-1.eot-box-wrapper:nth-child(6) > div.pure-g > div.pure-u-1-2:first-child > div.eot-box > div.a-container.a-container-eot > div.ad.eot-300-250
 ###google_ads_iframe$document
-###google_ads_iframe_\/*
-###google_ads_iframe_\/4585\/downdetector\/downdetector\.com\/rectangle-top_0
-https://tpc.googlesyndication.com/
-###google_ads_iframe_\/4585\/downdetector\/downdetector\.com\/rectangle-bottom_0
-###google_ads_iframe_\/4585\/downdetector\/downdetector\.com\/inline-second_0
-###comments-card
-m.17track.net##main.page.animsition:nth-child(6) > div.page-content > section.yq-panel.yq-panel-tracklist:nth-child(4) > div.slider.jcTrackContainer.slick-initialized.slick-slider > div.slick-list.draggable > div.slick-track > div.slick-slide:last-child > div.tracklist-item.tracklist-default
-xnxx.com###video-ad
-vjav.com##.__nat_box
-https://bssp.zog.link/
-javdoe.tv###ts_ad_native_tmc9p > div.mn-related-container
-t.17track.net###DA_V6-T-Main
-javwide.tv##.mn-related-container
-nhattruyen.com###trc_wrapper_87139
-nhattruyen.com##.trc_rbox_outer
-javdoe.tv###primary > div.wrap-block > div.container > div.col-md-8:nth-child(2) > div.wrap-block:last-child > div.row > center:last-child
-jav.sh###ts_ad_native_97iiy > div.mn-related-container
-otakusan.net##div.container-fluid:nth-child(9) > div.row:first-child > div.banner_qc:nth-child(2)
-otakusan.net##._u5reuj
-about:blank$domain=otakusan.net
-###MarketGidComposite197920
-otakusan.net##div.container-fluid:nth-child(9) > div.row:first-child > div.manga-container:nth-child(3) > div.manga-main.mb-3 > div.row.manga-top > div.col-lg-3:first-child > div.vertical-banner:nth-child(5)
-otakusan.net##.banner_qc
-otakusan.net###collection-manga > div.row > div.col-xs-12:last-child
-otakusan.net###collection-novel > div.row > div.col-xs-12:last-child
-otakusan.net###chap_view > div:nth-child(7)
-otakusan.net###chap_view > div:nth-child(13)
-otakusan.net##.fixed-ad, .ad-160-600-right
-otakusan.net###chap_view > div:nth-child(11)
-gamcore.com##div:nth-child(6) > canvas:nth-child(2)
-gamcore.com##div:nth-child(5) > canvas:nth-child(2)
-gamcore.com###middleCntr > article.middleBox > div.row:last-child > div.col-2.d-none.d-md-block.rightAdd:last-child
-gamcore.com###middleCntr > article.middleBox > div.row > div.col-xl-12.col-lg-12.col-md-12.col-sm-12.col-xs-12.game_view:nth-child(2) > div.add_game:nth-child(9) > div.add_game.d-none.d-sm-block:first-child
-##.mgbox
 f8-group-zf.zdn.vn
 google-analytics.com/r/collect^$third-party,important
 adservice.google.com
-a.adtng.com/
-@@||pornhub.com/view_video.php$domain=pornhub.com
-pornhub.com###hd-rightColVideoPage
-###content > div.pageWidth > div.pageContent > div.my_responsive_ads:first-child > center > table > tbody > tr:last-child > td > div > a:first-child
 @@74.125.24.138$network
 @@172.217.194.95$network
 ##.ads_sticky_bottom
-###yomedia-balloon-expandable-ddcc370bbe6643298ebaa569b245d513
 212.124.117.241$network
-https://animetvn.tv/ads/
-###float_content_right
 ||media.yomedia.vn^$domain=vuighe.net,third-party
 ||match.adsrvr.org^$third-party
 ||ads.pubmatic.com^$third-party
 ||blueadss.com^$domain=vuighe.net,third-party
 ||tag.gammaplatform.com^$third-party
 ||delivery.yeah1media.vn^$third-party
-avgle.com###ps32-container-inner > div:first-child
-avgle.com###wrapper > div.container:nth-child(10) > div:nth-child(3)
 avgle.com##.well
-avgle.com###wrapper > div.container:first-child > div.row:nth-child(2) > div.col-md-4.col-sm-5:nth-child(2)
-javdoe.tv###ts_ad_native_tmc9p
-facebook.com###mount_0_0 > div:nth-child(2) > div > div.rq0escxv.l9j0dhe7.du4w35lb:first-child > div.rq0escxv.l9j0dhe7.du4w35lb:nth-child(3) > div.du4w35lb.l9j0dhe7.cbu4d94t.j83agx80 > div.j83agx80.cbu4d94t.jgljxmt5.l9j0dhe7.be9z9djy > div.j83agx80.cbu4d94t.d6urw2fd.dp1hu0rb.l9j0dhe7.du4w35lb:first-child > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.taijpn5t.gs1a9yip.owycx6da.btwxx1t3.dp1hu0rb.ka73uehy.cuepibvl:first-child > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.rj1gh0hx.buofh1pr.g5gj957u.hpfvmrgz.i1fnvgqd.gs1a9yip.owycx6da.btwxx1t3.d2edcug0.dp1hu0rb > div.iaoy24ia.ahb00how.o9ndlxrr.fer614ym.dp1hu0rb.pzfvarvs.buofh1pr.ftbm7790:last-child > div.iyyx5f41.czl6b2yu.poy2od1o.dhp61c6y.dp1hu0rb.owwhemhu.pad24vr5.cbu4d94t.j83agx80 > div.q5bimw55.rpm2j7zs.k7i0oixp.gvuykj2m.j83agx80.cbu4d94t.ni8dbmo4.eg9m0zos.l9j0dhe7.du4w35lb.ofs802cu.pohlnb88.dkue75c7.mb9wzai9.d8ncny3e.buofh1pr.tgvbjcpo.l56l04vs.r57mb794.kh7kg01d.c3g1iek1.k4xni2cv > div.j83agx80.cbu4d94t.buofh1pr:first-child > div.cxgpxx05:nth-child(2) > div:first-child > div:first-child > div.l9j0dhe7 > div.cxgpxx05.sj5x9vvc:nth-child(2)
-##.mobile-ads-content
-##.gnarty-offads
-animehay.tv###floating-banner-right
-###floating-banner-left
-https://animet.net/upload/ads/
 @@||login.microsoftonline.com^$important,document,~extension
-en.av01.tv###\38 4224o
-animet.net###Tp-Wp > div.gnarty-offads:nth-child(10) > div.sticky_bottom:nth-child(2) > div.ads_sticky_bottom:last-child > div.mobile-ads-content
-animet.net##.ads_sticky_bottom
-jav.sh###colophon > div.row > center:first-child
-##.exo-native-widget-outer-container
-###ins-overlay
-###ins-content
 @@||google-analytics.com^$domain=animet.net,third-party
-https://syndication.exosrv.com/
 @@142.250.4.102:443$network
 @@8.8.8.8$network,important
 ||checkyofeed.com^$third-party
 ||kdbumyha.com^$third-party
 ||log.videocampaign.co^$third-party
 ||misxgkvnlf.com^$third-party
+@@||mobile.pipe.aria.microsoft.com^
+@@||beacons2.gvt2.com^$third-party
+@@||beacons3.gvt2.com^$third-party
+@@172.217.194.94$network,app=chrome.exe
