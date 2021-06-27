@@ -210,3 +210,8 @@ avgle.com##.well
 @@172.217.194.94$network,app=chrome.exe
 truyentranhlh.net###lh-ads > div.d-none.d-sm-block.bt-fixed-pc.force-top
 truyentranhlh.net###lh-ads > div.d-md-none.bt-fixed.force-top
+@@||googletagmanager.com^$domain=animet.net,third-party
+###Tp-Wp > div.Body.Container:nth-child(3) > div.Content > div.gnartyx-offads:nth-child(2)
+googleads.g.doubleclick.net
+g18vn.com###single > div.center.content > div.epcl-page-wrapper > div.left-content.grid-70.np-mobile:first-child > article.main-article.post-9846.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-2d.category-english.category-pc.category-unity.category-viethoa.tag-18-viet-hoa.tag-anime.tag-big-breasts.tag-dot-pixel.tag-slice-of-life-daily-living.tag-tanned-skin-suntan:first-child > section.post-content:nth-child(2) > div.text:nth-child(2) > div.code-block.code-block-2:last-child
+dollarvr.com##div.wp-wnkuqfmzykthx-wrapper:last-child > div.wp-wnkuqfmzykthx-modal.active
