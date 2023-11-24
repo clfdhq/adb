@@ -11,7 +11,6 @@ www5.javmost.com###content > div.col-md-12:first-child
 ||poweredby.jads.co^
 avgle.com###adxp
 avgle.com###ps32-container > center
-avgle.com###adxp
 avgle.com###container-c784c7e5f7516b03192a2aedaa0bd981 > div.container-c784c7e5f7516b03192a2aedaa0bd981__stand.row:last-child
 syndication.exosrv.com
 syndication.exoclick.com
@@ -56,13 +55,11 @@ speedtest.net###container > div.main-content:nth-child(3) > div.main > div.conta
 ###google_ads_iframe_\/4585\/downdetector\/downdetector\.com\/inline_0
 downdetector.com###google_ads_iframe_^
 ###google_ads_iframe_\/*
-###google_ads_iframe_\/4585\/downdetector\/downdetector\.com\/rectangle-top_0
 https://tpc.googlesyndication.com/
 ###google_ads_iframe_\/4585\/downdetector\/downdetector\.com\/rectangle-bottom_0
 ###google_ads_iframe_\/4585\/downdetector\/downdetector\.com\/inline-second_0
 ###comments-card
 m.17track.net##main.page.animsition:nth-child(6) > div.page-content > section.yq-panel.yq-panel-tracklist:nth-child(4) > div.slider.jcTrackContainer.slick-initialized.slick-slider > div.slick-list.draggable > div.slick-track > div.slick-slide:last-child > div.tracklist-item.tracklist-default
-7mmtv.tv#@##aoverlay
 7mmtv.tv#@##aoverlay
 xnxx.com###video-ad
 vjav.com##.__nat_box
@@ -107,27 +104,21 @@ hentaiz.net###rmcard
 vuighe.net##.player-vast-blocker
 vuighe.net###player > div.player-vast-container:last-child
 avgle.com###ps32-container-inner > div:first-child
-avgle.com###ps32-container > center
-avgle.com###wrapper > div.container:nth-child(10) > div:nth-child(3)
 avgle.com###wrapper > div.container:nth-child(10) > div:nth-child(3)
 avgle.com###wrapper > div.container:first-child > div.row:nth-child(2) > div.col-md-4.col-sm-5:nth-child(2)
 javdoe.tv###ts_ad_native_tmc9p
-javdoe.tv###ts_ad_native_tmc9p
 facebook.com###mount_0_0 > div:nth-child(2) > div > div.rq0escxv.l9j0dhe7.du4w35lb:first-child > div.rq0escxv.l9j0dhe7.du4w35lb:nth-child(3) > div.du4w35lb.l9j0dhe7.cbu4d94t.j83agx80 > div.j83agx80.cbu4d94t.jgljxmt5.l9j0dhe7.be9z9djy > div.j83agx80.cbu4d94t.d6urw2fd.dp1hu0rb.l9j0dhe7.du4w35lb:first-child > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.taijpn5t.gs1a9yip.owycx6da.btwxx1t3.dp1hu0rb.ka73uehy.cuepibvl:first-child > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.rj1gh0hx.buofh1pr.g5gj957u.hpfvmrgz.i1fnvgqd.gs1a9yip.owycx6da.btwxx1t3.d2edcug0.dp1hu0rb > div.iaoy24ia.ahb00how.o9ndlxrr.fer614ym.dp1hu0rb.pzfvarvs.buofh1pr.ftbm7790:last-child > div.iyyx5f41.czl6b2yu.poy2od1o.dhp61c6y.dp1hu0rb.owwhemhu.pad24vr5.cbu4d94t.j83agx80 > div.q5bimw55.rpm2j7zs.k7i0oixp.gvuykj2m.j83agx80.cbu4d94t.ni8dbmo4.eg9m0zos.l9j0dhe7.du4w35lb.ofs802cu.pohlnb88.dkue75c7.mb9wzai9.d8ncny3e.buofh1pr.tgvbjcpo.l56l04vs.r57mb794.kh7kg01d.c3g1iek1.k4xni2cv > div.j83agx80.cbu4d94t.buofh1pr:first-child > div.cxgpxx05:nth-child(2) > div:first-child > div:first-child > div.l9j0dhe7 > div.cxgpxx05.sj5x9vvc:nth-child(2)
 animet.net##.mobile-ads-content
-animet.net##.gnarty-offads
 ##.gnarty-offads
 animehay.tv###floating-banner-right
 ###floating-banner-left
 ##.mobile-ads-content
 https://animet.net/upload/ads/
-##.gnarty-offads
 ##.exo_wrapper
 jav.sh###colophon > div.row > center:first-child
 ##.exo-native-widget-outer-container
 ###ins-overlay
 ###ins-content
-##.gnarty-offads
 https://syndication.exosrv.com/
 reic.vn###myModalLogin
 reic.vn##.modal-backdrop, .fade, .in
@@ -167,3 +158,26 @@ hhkungfu.tv###adbanner
 laptop88.vn##main:nth-child(5) > section.banner-home:first-child > div.container > div.d-flex:first-child > div.slide-home:first-child > div.js-carousel.owl-carousel.owl-theme.owl-loaded.owl-drag > div.owl-dots:last-child
 laptop88.vn##.owl-dots
 m.phimsexsub.sex##div.clipxx:nth-child(8)
+##.div["jw-logo jw-logo-top-right jw-reset"]
+hhpanda.tv##.top-block, .right-box
+@@||googletagmanager.com
+hhpanda.tv##.block-body
+animet.net###fbox-background
+animet.net###menubentrai > div.bentrai_two:first-child > span.gnarty-home-off-ads
+azrom.net###UnE1RjUxellnK3dNbERqdkord0NTNHdKaUhkSjdtKzFJL3dCWG1GeEpVYz0gwpgv
+azrom.net###L2E1Z3FQYndYWVBkQ3NtWkZxWXRQdE5GUkx6T3lnMEJqVDU5bUhxaUlHND0ppwcs
+dollarvr.com###dU5wdXBBMDdwTjM5THpkMHRvWk1qTHVQaERzNW1GSFhULzgvMVRrSXVZND0fomxw
+dollarvr.com##.OVppRW11UEFzOGlha01jYjF0aE9qaWh1dEp4aHFuVkkwV09OWlJOa2c2UT0vlsuo, .emxkdE5BOWZiS1lrRjJ2KzR1RDFmYVNQb3c3d2UwUjdQYjJUbnlydXUxcz0vlsuo
+dollarvr.com###MWhZQ0dlWnUvU0FaREpNRXBzMWFndWlzV1VFVWJ5dFdzcUp6Q2tzZ2dYaz0fmzbe
+dollarvr.com###Q3MxNDFKY0dBdDhZcTY2Sy9yNnVTUzl3VjM2THVlRTIvQVArMTU0NkpaYz0pomzf
+dollarvr.com###bUJROXZyNjZicjYva3lrMkZzR240T1Rqbk5FN3YrMVVZaDFFV2JmY1R4WT0ubfsg
+###adzz
+###adxx
+eporner.com##.vjs-inplayer-container
+https://googleads.g.doubleclick.net/
+@@||google-analytics.com^$domain=avgle.net
+@@||googletagservices.com/tag/js/gpt.js$domain=anime-sharing.com
+@@||solestudious.com^$domain=javplayer.me,third-party
+@@||google-analytics.com^$domain=njav.tv,third-party
+@@||enrichyummy.com^$domain=njav.tv,third-party
+youtube.com###contents > ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer
