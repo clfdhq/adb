@@ -67,8 +67,6 @@ https://bssp.zog.link/
 javdoe.tv###ts_ad_native_tmc9p > div.mn-related-container
 t.17track.net###DA_V6-T-Main
 javwide.tv##.mn-related-container
-nhattruyen.com###trc_wrapper_87139
-nhattruyen.com##.trc_rbox_outer
 javdoe.tv###primary > div.wrap-block > div.container > div.col-md-8:nth-child(2) > div.wrap-block:last-child > div.row > center:last-child
 jav.sh###ts_ad_native_97iiy > div.mn-related-container
 otakusan.net##div.container-fluid:nth-child(9) > div.row:first-child > div.banner_qc:nth-child(2)
@@ -166,12 +164,6 @@ animet.net###fbox-background
 animet.net###menubentrai > div.bentrai_two:first-child > span.gnarty-home-off-ads
 azrom.net###UnE1RjUxellnK3dNbERqdkord0NTNHdKaUhkSjdtKzFJL3dCWG1GeEpVYz0gwpgv
 azrom.net###L2E1Z3FQYndYWVBkQ3NtWkZxWXRQdE5GUkx6T3lnMEJqVDU5bUhxaUlHND0ppwcs
-dollarvr.com###dU5wdXBBMDdwTjM5THpkMHRvWk1qTHVQaERzNW1GSFhULzgvMVRrSXVZND0fomxw
-dollarvr.com##.OVppRW11UEFzOGlha01jYjF0aE9qaWh1dEp4aHFuVkkwV09OWlJOa2c2UT0vlsuo, .emxkdE5BOWZiS1lrRjJ2KzR1RDFmYVNQb3c3d2UwUjdQYjJUbnlydXUxcz0vlsuo
-dollarvr.com###MWhZQ0dlWnUvU0FaREpNRXBzMWFndWlzV1VFVWJ5dFdzcUp6Q2tzZ2dYaz0fmzbe
-dollarvr.com###Q3MxNDFKY0dBdDhZcTY2Sy9yNnVTUzl3VjM2THVlRTIvQVArMTU0NkpaYz0pomzf
-dollarvr.com###bUJROXZyNjZicjYva3lrMkZzR240T1Rqbk5FN3YrMVVZaDFFV2JmY1R4WT0ubfsg
-###adzz
 ###adxx
 eporner.com##.vjs-inplayer-container
 https://googleads.g.doubleclick.net/
