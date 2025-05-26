@@ -173,3 +173,11 @@ https://googleads.g.doubleclick.net/
 @@||google-analytics.com^$domain=njav.tv,third-party
 @@||enrichyummy.com^$domain=njav.tv,third-party
 youtube.com###contents > ytd-channel-video-player-renderer.style-scope.ytd-item-section-renderer
+asu.baby###rotation
+asu.baby###header-wrapper > div.nhacai:nth-child(3)
+asu.baby##div.nhacai:nth-child(6)
+asu.baby##div.nhacai2:nth-child(15) > div.sticky_bottom:nth-child(2) > div.ads_sticky_bottom:last-child > div.mobile-ads-content > div.banner-sticky-footer-ad
+asu.baby##div.nhacai:nth-child(8) > a > img.initial.loaded
+asu.baby##div.nhacai2:nth-child(17) > div.sticky_bottom:nth-child(2) > div.ads_sticky_bottom:last-child > div.mobile-ads-content > div.banner-sticky-footer-ad > a:last-child > img
+asu.baby##div.nhacai2:nth-child(17) > div.sticky_bottom:nth-child(2) > div.ads_sticky_bottom:last-child > div.mobile-ads-content > div.banner-sticky-footer-ad > a:nth-child(2) > img
+asu.baby##div.nhacai2:nth-child(17) > div.sticky_bottom:nth-child(2) > a.button_sticky_bottom:first-child
